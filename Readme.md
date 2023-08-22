@@ -12,7 +12,8 @@ Your task is to create a user interface for a web application using the frontend
 
 1. **User Form**: Create a user complain form using the provided design:
 
-![image](https://github.com/esedsl/ESED-FRONTEND-CHALLENGE/assets/46220983/759ff050-3551-493b-b00b-603bf5457aa1)
+![image](https://github.com/esedsl/ESED-FRONTEND-CHALLENGE/assets/46220983/4c2f2ffe-156b-49bb-a7f4-a4d929c99512)
+
 
 The form must be centered and adhere to the instructions provided in the given metrics.
 
